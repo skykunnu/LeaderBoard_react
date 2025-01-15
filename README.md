@@ -1,7 +1,7 @@
 # LeaderBoard
 
 # Overview
-The Dynamic Leaderboard Application is an interactive and user-friendly platform for managing a leaderboard in real time. Users can add, update, and delete player details and adjust scores dynamically. The application automatically sorts players based on their scores, providing a seamless experience for ranking management.
+The Dynamic Leaderboard Application is an interactive and user-friendly platform built using React for managing a leaderboard in real-time. Users can add, update, and delete player details, and adjust scores dynamically. The application automatically sorts players based on their scores, providing a seamless experience for ranking management. The interface is styled using Tailwind CSS, ensuring a modern, responsive, and visually appealing design.
 
 # Features
 
