@@ -12,3 +12,7 @@ The Dynamic Leaderboard Application is an interactive and user-friendly platform
 5. **Input Validation**: Ensures all required fields are filled before adding a player.
 
 # User-Interface
+
+![image](https://github.com/user-attachments/assets/e571b3da-c062-4687-adc4-313c3c3017b1)
+
+![image](https://github.com/user-attachments/assets/ea8d736d-11b6-4a5b-ac3f-c1560f80b8fc)
